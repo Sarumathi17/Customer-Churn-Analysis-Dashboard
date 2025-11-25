@@ -44,10 +44,10 @@ A derived column `Tenure_Group` was created:
 ## 📷 Screenshots
 
 ### **Power BI Dashboard**
-![Dashboard Screenshot](https://github.com/Sarumathi17/Customer-Churn-Analysis-Dashboard/Churn1.png)
+![Dashboard Screenshot](https://github.com/Sarumathi17/Customer-Churn-Analysis-Dashboard/blob/main/Churn1.png)
 
 ### **Excel Pivot Tables**
-![Excel Pivot Screenshot](https://github.com/Sarumathi17/Customer-Churn-Analysis-Dashboard/Churn2.png)
+![Excel Pivot Screenshot](https://github.com/Sarumathi17/Customer-Churn-Analysis-Dashboard/blob/main/Churn2.png)
 
 
 ---
